@@ -64,10 +64,10 @@ Only hacker 90411 managed to earn a full score for more than one challenge, so w
 
 ===============================================================================
 
-You can aslo put Hackers as h
-                 Difficulty as d
-                 Challenges as c
-                 Submissions as s
+we can aslo put Hackers as h,
+                 Difficulty as d,           
+                 Challenges as c,
+                 Submissions as s.
 it will reduce repetation of lengthy table name.
 
 ===============================================================================
